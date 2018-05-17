@@ -8,4 +8,5 @@ def my_all?(collection)
 
     x += 1
   end
+  array
 end
